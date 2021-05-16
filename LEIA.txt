@@ -1,0 +1,4 @@
+Programas feitos no DEV C++ Portable
+
+Apenas abrir os arquivos que formam feitos no 
+Dev, para visualizar os códigos fonte
